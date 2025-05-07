@@ -1,7 +1,5 @@
 # Open World Labs
 
-![Open World Labs Logo](/public/images/owl-logo.png)
-
 ## Creating next-generation world models for immersive gaming experiences
 
 Open World Labs is pioneering AI-driven gaming technology that empowers developers and creates immersive experiences through distilled diffusion world models.
