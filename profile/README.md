@@ -15,14 +15,8 @@ At Open World Labs, we're building the future of gaming through collaborative re
 ### 🧠 World Models
 Distilled diffusion world models for efficient edge deployment. Our proprietary compression techniques enable rich, responsive world models that run on consumer hardware.
 
-### 🎮 Game Integration
-Seamless integration with popular game engines and platforms. Our SDK supports all major engines, with native integrations for Unity, Unreal Engine, and Godot.
-
 ### 🖥️ Data Recording
 Advanced tools to capture and contribute gaming data. Our lightweight recorder respects privacy while capturing valuable insights to improve gaming experiences.
-
-### 💾 Cloud Storage
-Zero egress cost cloud storage for your game data. Our partnership with leading cloud providers ensures your data remains accessible without unexpected costs.
 
 ### 🌐 Edge Deployment
 Optimized models that run efficiently on edge devices. From mobile phones to gaming consoles, our models adapt to available resources without compromising quality.
