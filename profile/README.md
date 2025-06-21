@@ -1,14 +1,14 @@
-# Open World Labs
+# Wayfarer Labs
 
 ## Creating next-generation world models for immersive gaming experiences
 
-Open World Labs is pioneering AI-driven gaming technology that empowers developers and creates immersive experiences through distilled diffusion world models.
+Wayfarer Labs is pioneering AI-driven gaming technology that empowers developers and creates immersive experiences through distilled diffusion world models.
 
 [Join Our Discord](https://discord.gg/dX4HW9Pt7Z) | [Visit Our Website](https://openworldlabs.ai)
 
 ## Our Mission
 
-At Open World Labs, we're building the future of gaming through collaborative research. By contributing your gameplay data, you help advance AI technology that will create more immersive, responsive, and intelligent gaming experiences for everyone.
+At Wayfarer Labs, we're building the future of gaming through collaborative research. By contributing your gameplay data, you help advance AI technology that will create more immersive, responsive, and intelligent gaming experiences for everyone.
 
 ## Key Features
 
