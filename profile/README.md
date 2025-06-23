@@ -4,7 +4,7 @@
 
 Wayfarer Labs is pioneering AI-driven gaming technology that empowers developers and creates immersive experiences through distilled diffusion world models.
 
-[Join Our Discord](https://discord.gg/dX4HW9Pt7Z) | [Visit Our Website](https://openworldlabs.ai)
+[Join Our Discord](https://discord.gg/dX4HW9Pt7Z) | [Visit Our Website](https://wayfarerlabs.ai/)
 
 ## Our Mission
 
@@ -37,7 +37,7 @@ We believe in open science. All contributed data is anonymized and made availabl
 
 ## Getting Started
 
-1. [Create an account](https://openworldlabs.ai/handler/sign-up) on our platform
+1. [Create an account](https://wayfarerlabs.ai/handler/sign-up) on our platform
 2. Download our lightweight recording tool
 3. Start contributing your gameplay data
 4. Explore our data repository and build with our models
@@ -45,8 +45,8 @@ We believe in open science. All contributed data is anonymized and made availabl
 ## Connect With Us
 
 - [Discord Community](https://discord.gg/dX4HW9Pt7Z)
-- [GitHub Organization](https://github.com/OpenWorld-Labs)
-- [Website](https://openworldlabs.ai)
+- [GitHub Organization](https://github.com/Wayfarer-Labs)
+- [Website](https://wayfarerlabs.ai/)
 
 ## License
 
