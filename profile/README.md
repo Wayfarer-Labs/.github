@@ -79,7 +79,7 @@ We offer paid bounties for contributions to our open-source projects. Check our 
 - 💻 [GitHub Organization](https://github.com/Wayfarer-Labs)
 - 🌐 [Website](https://wayfarerlabs.ai/)
 - 🧪 [Evaluation Platform](https://eval.wayfarerlabs.ai)
-- 🐦 [Twitter/X](https://x.com/openworldlabs)
+- 🐦 [Twitter/X](https://x.com/wayfarerlabs)
 
 ## Who Should Get Involved?
 
