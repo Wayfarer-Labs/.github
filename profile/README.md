@@ -1,53 +1,98 @@
-# Wayfarer Labs
+# Wayfarer Labs (OWL)
 
-## Creating next-generation world models for immersive gaming experiences
+## The Local World Modeling Company
 
-Wayfarer Labs is pioneering AI-driven gaming technology that empowers developers and creates immersive experiences through distilled diffusion world models.
+**Simulate Anything on Anything** - Open science world models that run on consumer hardware. From mobile phones to gaming PCs, experience state-of-the-art AI models at blazing speeds.
 
-[Join Our Discord](https://discord.gg/dX4HW9Pt7Z) | [Visit Our Website](https://wayfarerlabs.ai/)
+[Join Our Discord](https://discord.gg/dX4HW9Pt7Z) | [Visit Our Website](https://wayfarerlabs.ai/) | [Try OWL Eval](https://eval.wayfarerlabs.ai)
 
 ## Our Mission
 
-At Wayfarer Labs, we're building the future of gaming through collaborative research. By contributing your gameplay data, you help advance AI technology that will create more immersive, responsive, and intelligent gaming experiences for everyone.
+We're making world models accessible to everyone. Through open science and community collaboration, we're building AI models that run locally on your hardware - no cloud required. Our models achieve hundreds of FPS on RTX 5090s and 60 FPS on NVIDIA Jetson for robotics applications.
 
-## Key Features
+## Key Technologies
 
-### 🧠 World Models
-Distilled diffusion world models for efficient edge deployment. Our proprietary compression techniques enable rich, responsive world models that run on consumer hardware.
+### 🚀 Real-time World Generation
+- **100s of FPS** on RTX 5090
+- **60 FPS** on NVIDIA Jetson (360p)
+- Optimized for consumer hardware
+- No cloud computing required
 
-### 🖥️ Data Recording
-Advanced tools to capture and contribute gaming data. Our lightweight recorder respects privacy while capturing valuable insights to improve gaming experiences.
+### 🤖 Robotics Deployment
+- NVIDIA Jetson optimized
+- Real-time inference for autonomous systems
+- 360p at 60 FPS for embedded applications
 
-### 🌐 Edge Deployment
-Optimized models that run efficiently on edge devices. From mobile phones to gaming consoles, our models adapt to available resources without compromising quality.
+### ⚡ Model Distillation
+- ODE regression enables 3.5x speedup
+- Prune 50% of layers with minimal quality loss
+- Production-ready optimization techniques
 
-### 📝 Open Research
-Commitment to open-source development and research publications. We believe in transparency and collaboration, regularly publishing our findings and contributing to the research community.
+### 🧪 Human Evaluation Platform
+- [OWL Eval](https://eval.wayfarerlabs.ai) - First open-source evaluation platform for AI-generated videos
+- Reveals critical model failures that automated metrics miss
+- Understand human perception of AI content
 
-## Join Our Open Science Initiative
+## Major Research Projects
 
-We believe in open science. All contributed data is anonymized and made available to researchers and developers. Build on our foundation to advance gaming AI or create your own innovative applications.
+### 3D Consistency
+Depth map integration and point cloud conditioning for spatially coherent world generation.
 
-### Why Contribute?
+### Long-term Spatiotemporal
+Solving temporal flickering through frame-pair training and optical flow conditioning.
 
-- Advance gaming AI research and enable more immersive experiences
-- Join a community of gamers contributing to open science
-- Help create technologies that will power the next generation of games
-- All data is anonymized and used ethically for research purposes
+### Novel Architectures
+Diffusion transformers for decoding, hierarchical VAE-GANs, and self-forcing for KV cache optimization.
 
-## Getting Started
+### Embedded Devices
+Models run anywhere from Steam Deck to iPhone, achieving real-time performance without cloud infrastructure.
 
-1. [Create an account](https://wayfarerlabs.ai/handler/sign-up) on our platform
-2. Download our lightweight recording tool
-3. Start contributing your gameplay data
-4. Explore our data repository and build with our models
+## Active Bounties
+
+We offer paid bounties for contributions to our open-source projects. Check our [GitHub Bounty Board](https://github.com/orgs/Wayfarer-Labs/projects/3) for current opportunities.
+
+### How to Contribute
+
+1. Browse active bounties on our [bounty board](https://github.com/orgs/Wayfarer-Labs/projects/3)
+2. Join our [Discord](https://discord.gg/dX4HW9Pt7Z) (300+ members)
+3. Contact @louis or @spencer on Discord to claim a bounty
+4. Submit your PR and get paid upon merge
+
+## Open Source Projects
+
+- **World Models** - State-of-the-art models for real-time generation
+- **OWL Eval** - Human evaluation platform for AI-generated content
+- **Diffusion Decoders** - Optimized decoders with depth pruning
+- **Training Pipelines** - Open frameworks for model training
+
+## Recent Publications
+
+- [Why Human Evaluation is the Missing Piece in World Model Development](https://wayfarerlabs.ai/blog/why-human-evaluation-is-the-missing-piece-in-world-model-development)
+- [Optimizing Diffusion Decoders with Depth Pruning](https://wayfarerlabs.ai/blog/diffdec-ode-regression)
+- [Generation vs. Reconstruction: Striking A Balance](https://wayfarerlabs.ai/blog/gen-vs-rec)
+- [Fast Audio Video World Models](https://wayfarerlabs.ai/blog/fast-audio-video-world-models-part-2)
+- [Training Diffusable Autoencoders](https://wayfarerlabs.ai/blog/training-diffusable-autoencoders)
 
 ## Connect With Us
 
-- [Discord Community](https://discord.gg/dX4HW9Pt7Z)
-- [GitHub Organization](https://github.com/Wayfarer-Labs)
-- [Website](https://wayfarerlabs.ai/)
+- 🎮 [Discord Community](https://discord.gg/dX4HW9Pt7Z) - 300+ researchers and developers
+- 💻 [GitHub Organization](https://github.com/Wayfarer-Labs)
+- 🌐 [Website](https://wayfarerlabs.ai/)
+- 🧪 [Evaluation Platform](https://eval.wayfarerlabs.ai)
+- 🐦 [Twitter/X](https://x.com/openworldlabs)
+
+## Who Should Get Involved?
+
+- **Researchers** - Collaborate on cutting-edge world model research
+- **Developers** - Build applications with our models or contribute code
+- **Roboticists** - Deploy models on embedded systems for real-time inference
+- **Investors** - Learn about investment opportunities in open science AI
+- **Partners** - Explore collaboration and integration possibilities
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Built by the OWL team in Providence, Rhode Island*
