@@ -18,14 +18,7 @@ We're making world models accessible to everyone. Through open science and commu
 - Optimized for consumer hardware
 - No cloud computing required
 
-### 🤖 Robotics Deployment
-- NVIDIA Jetson optimized
-- Real-time inference for autonomous systems
-- 360p at 60 FPS for embedded applications
-
 ### ⚡ Model Distillation
-- ODE regression enables 3.5x speedup
-- Prune 50% of layers with minimal quality loss
 - Production-ready optimization techniques
 
 ### 🧪 Human Evaluation Platform
