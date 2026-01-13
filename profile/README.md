@@ -13,15 +13,14 @@ We're making world models accessible to everyone. Through open science and commu
 ## Key Technologies
 
 ### 🚀 Real-time World Generation
-- **100s of FPS** on RTX 5090
-- **60 FPS** on consumer hardware
-- No cloud computing needed but cloud capable
+- **60 FPS** on the latest consumer hardware
+- No cloud computing needed. Run our best models on your current PC or laptop
 
 ### ⚡ Model Distillation
 - Production-ready optimization techniques
 
 ### 🧪 Human Evaluation Platform
-- [OWL Eval](https://eval.wayfarerlabs.ai) - First open-source evaluation platform for AI-generated videos
+- [OWL Eval](https://eval.wayfarerlabs.ai) - An open-source evaluation platform for AI-generated videos
 - Reveals critical model failures that automated metrics miss
 - Understand human perception of AI content
 
@@ -37,7 +36,7 @@ Solving temporal flickering through frame-pair training and optical flow conditi
 Diffusion transformers for decoding, hierarchical VAE-GANs, and self-forcing for KV cache optimization.
 
 ### Embedded Devices
-Models run anywhere from Steam Deck to iPhone, achieving real-time performance without cloud infrastructure.
+Models intended to run anywhere from Steam Deck to iPhone (soon), achieving real-time performance without cloud infrastructure.
 
 ## Active Bounties
 
@@ -46,8 +45,8 @@ We offer paid bounties for contributions to our open-source projects. Check our 
 ### How to Contribute
 
 1. Browse active bounties on our [bounty board](https://github.com/orgs/Wayfarer-Labs/projects/3)
-2. Join our [Discord](https://discord.gg/dX4HW9Pt7Z) (300+ members)
-3. Contact @louis or @spencer on Discord to claim a bounty
+2. Join our [Discord](https://discord.gg/dX4HW9Pt7Z) (1000+ members) or our model-specific [Discord](https://discord.gg/jT93EuasMA) (*Ask for a role!)
+3. Contact @louis or @spencer on Discord to discuss or claim a bounty
 4. Submit your PR and get paid upon merge
 
 ## Open Source Projects
