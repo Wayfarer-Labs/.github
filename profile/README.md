@@ -66,7 +66,7 @@ We offer paid bounties for contributions to our open-source projects. Check our 
 
 ## Connect With Us
 
-- 🎮 [Discord Community](https://discord.gg/dX4HW9Pt7Z) - 300+ researchers and developers
+- 🎮 [Discord](https://discord.gg/dX4HW9Pt7Z) (1000+ researchers/developers) / model-specific & consumer facing [Discord](https://discord.gg/jT93EuasMA) (*Ask for a role!)
 - 💻 [GitHub Organization](https://github.com/Wayfarer-Labs)
 - 🌐 [Website](https://wayfarerlabs.ai/)
 - 🧪 [Evaluation Platform](https://eval.wayfarerlabs.ai)
