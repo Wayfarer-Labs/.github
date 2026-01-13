@@ -14,9 +14,8 @@ We're making world models accessible to everyone. Through open science and commu
 
 ### 🚀 Real-time World Generation
 - **100s of FPS** on RTX 5090
-- **60 FPS** on NVIDIA Jetson (360p)
-- Optimized for consumer hardware
-- No cloud computing required
+- **60 FPS** on consumer hardware
+- No cloud computing needed but cloud capable
 
 ### ⚡ Model Distillation
 - Production-ready optimization techniques
