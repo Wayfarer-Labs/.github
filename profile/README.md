@@ -1,4 +1,4 @@
-# Wayfarer Labs (OWL)
+# Overworld
 
 ## The Local World Modeling Company
 
@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built by the OWL team in Providence, Rhode Island*
+*Built by the Overworld team in Providence, Rhode Island*
