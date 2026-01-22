@@ -4,7 +4,7 @@
 
 **Simulate Anything on Anything** - Overworld builds AI that dreams playable worlds — 60 FPS, sub-20ms latency, actually fun. We're closing the gap between what people imagine and what they can experience. The ultimate sandbox, and it's real.
 
-[Join Our Discord](https://discord.gg/overworld) | [Visit Our Website](https://over.world/) | [Try our model (coming soon)](https://overworld.stream)
+[Join Our Discord](https://discord.gg/overworld) | [Visit Our Website](https://over.world/) | [Try our model](https://overworld.stream)
 
 ## Recent Publications
 
